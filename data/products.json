@@ -4,7 +4,7 @@
     "name": "Royal Comfort 3-Seater",
     "category": "Sofas",
     "price": 28999,
-    "image": "https://images.pexels.com/photos/1350789/pexels-photo-1350789.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "image": "./assets/photos/royal_3_seater.webp",
     "description": "Experience luxury with this premium 3-seater sofa featuring plush cushions, durable fabric upholstery, and a sturdy wooden frame. Perfect for your living room."
   },
   {
@@ -12,7 +12,7 @@
     "name": "Urban Fabric Sofa",
     "category": "Sofas",
     "price": 21499,
-    "image": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "image": "./assets/photos/urban_fabric.jpeg",
     "description": "Modern urban design with comfortable fabric upholstery. Features removable cushion covers for easy cleaning and maintenance."
   },
   {
@@ -20,7 +20,7 @@
     "name": "Luxury L-Shape Sofa",
     "category": "Sofas",
     "price": 45999,
-    "image": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "image": "./assets/photos/luxury_lshaped.webp",
     "description": "Spacious L-shaped sofa with premium upholstery and ergonomic design. Ideal for large living spaces and family gatherings."
   },
   {
@@ -28,7 +28,7 @@
     "name": "King Size Wooden Bed",
     "category": "Beds",
     "price": 32999,
-    "image": "https://images.pexels.com/photos/1743229/pexels-photo-1743229.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "image": "./assets/photos/kingsize_wooden_bed.jpg",
     "description": "Elegant king-size bed crafted from premium solid wood. Features a classic headboard design and robust construction for lasting durability."
   },
   {
@@ -36,7 +36,7 @@
     "name": "Hydraulic Storage Bed",
     "category": "Beds",
     "price": 41500,
-    "image": "https://images.pexels.com/photos/1743231/pexels-photo-1743231.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "image": "./assets/photos/hydraulic.jpg",
     "description": "Smart storage solution with hydraulic lift mechanism. Maximize bedroom space with ample storage underneath. Premium quality mattress support."
   },
   {
@@ -44,7 +44,7 @@
     "name": "Metal Frame Bed",
     "category": "Beds",
     "price": 18750,
-    "image": "https://images.pexels.com/photos/271743/pexels-photo-271743.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "image": "./assets/photos/metal_frame.jpg",
     "description": "Contemporary metal frame bed with a minimalist design. Strong and durable construction with a sleek powder-coated finish."
   },
   {
@@ -52,7 +52,7 @@
     "name": "4-Seater Dining Set",
     "category": "Dining",
     "price": 19999,
-    "image": "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "image": "./assets/photos/4seater_dine.jpg",
     "description": "Complete dining set with table and 4 chairs. Compact design perfect for small families. Easy to clean and maintain."
   },
   {
@@ -60,7 +60,7 @@
     "name": "6-Seater Solid Wood Set",
     "category": "Dining",
     "price": 34999,
-    "image": "https://images.pexels.com/photos/1395967/pexels-photo-1395967.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "image": "./assets/photos/6seater_dine.jpg",
     "description": "Premium solid wood dining set for 6 people. Timeless design with comfortable cushioned chairs. Perfect for family dinners and gatherings."
   },
   {
@@ -68,7 +68,7 @@
     "name": "Ergonomic Office Chair",
     "category": "Office",
     "price": 7499,
-    "image": "https://images.pexels.com/photos/276534/pexels-photo-276534.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "image": "./assets/photos/ergonomic_office.jpeg",
     "description": "Comfortable ergonomic office chair with lumbar support, adjustable height, and breathable mesh back. Ideal for long working hours."
   },
   {
@@ -76,7 +76,7 @@
     "name": "Work Desk with Drawer",
     "category": "Office",
     "price": 12999,
-    "image": "https://images.pexels.com/photos/667838/pexels-photo-667838.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "image": "./assets/photos/office_with.webp",
     "description": "Spacious work desk with built-in drawers for storage. Sturdy construction with a smooth finish. Perfect for home office setup."
   },
   {
@@ -84,7 +84,7 @@
     "name": "3-Door Wardrobe",
     "category": "Wardrobes",
     "price": 26999,
-    "image": "https://images.pexels.com/photos/1599791/pexels-photo-1599791.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "image": "./assets/photos/3door_wardrobe.avif",
     "description": "Spacious 3-door wardrobe with multiple shelves and hanging space. Modern design with durable engineered wood construction."
   },
   {
@@ -92,7 +92,7 @@
     "name": "Sliding Wardrobe",
     "category": "Wardrobes",
     "price": 38500,
-    "image": "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "image": "./assets/photos/sliding_wardrobe.webp",
     "description": "Premium sliding wardrobe with mirror finish. Space-saving design with smooth glide mechanism. Ample storage for all your clothing needs."
   },
   {
@@ -100,7 +100,7 @@
     "name": "Wall Mounted Unit",
     "category": "TV Units",
     "price": 14999,
-    "image": "https://images.pexels.com/photos/1957477/pexels-photo-1957477.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "image": "./assets/photos/wallmount.jpg",
     "description": "Modern wall-mounted TV unit with cable management. Sleek floating design that saves floor space. Suitable for TVs up to 55 inches."
   },
   {
@@ -108,7 +108,7 @@
     "name": "Wooden TV Cabinet",
     "category": "TV Units",
     "price": 21999,
-    "image": "https://images.pexels.com/photos/1648776/pexels-photo-1648776.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "image": "./assets/photos/woodenTVcab.jpg",
     "description": "Classic wooden TV cabinet with storage drawers and open shelves. Premium finish with sturdy construction. Supports large TVs."
   }
 ]
