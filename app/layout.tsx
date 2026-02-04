@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     description: 'Discover premium quality furniture for your home',
     images: [
       {
-        url: 'https://images.pexels.com/photos/1350789/pexels-photo-1350789.jpeg',
+        url: '/photos/royal_3_seater.webp',
       },
     ],
   },
